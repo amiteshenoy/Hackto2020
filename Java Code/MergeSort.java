@@ -79,5 +79,6 @@ public class MergeSort {
         m.sort(arr);
 
         System.out.println("Ordered  List:  \n" + Arrays.toString(arr));
+        System.out.println("Done!");
     }
 }
