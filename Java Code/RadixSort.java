@@ -58,5 +58,6 @@ class RadixSort {
           // Function Call
         radixsort(arr, n);
         print(arr, n);
+        System.out.println("Done!");
     }
 }
